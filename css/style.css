@@ -1,0 +1,80 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+h1{
+  font-size: 32px;
+  font-weight: 200;
+  line-height: 38px;
+}
+h3{
+  font-size: 22px;
+  font-weight: 200;
+  line-height: 28px;
+}
+p{
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 24px;
+}
+ul li{
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 50px;
+  padding-left: 50px;
+}
+.img .w-3{
+  padding: 50px 10px 0 10px;
+  width: 550px;
+}
+.gradient {
+  background: linear-gradient(135deg, #0061f2 0%, #6900c7 100%);
+}
+.btn{
+  font-family: system-ui, -apple-system, "Segoe UI";
+}
+.icon{
+    padding: 30px;
+    font-size: 30px;
+    border-radius: 100%;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+  background: linear-gradient(135deg, #0061f2 0%, #6900c7 100%);
+}
+/* shape-divider-top */
+.custom-shape-divider-top-1754472325 {
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1754472325 svg {
+    width: calc(137% + 1.3px);
+    display: block;
+    height: 200px;
+}
+  
+.custom-shape-divider-top-1754472325 .shape-fill {
+    fill: #352fdc;
+}
+
+/* shape-divider-bottom */
+.custom-shape-divider-bottom-1754471588 {
+    overflow: hidden;
+    line-height: 0;
+}
+.custom-shape-divider-bottom-1754471588 svg {
+    display: block;
+    width: calc(137% + .3px);
+    height: 200px;
+}
+.custom-shape-divider-bottom-1754471588 .shape-fill {
+    fill: #293AE0;
+}
+.service h2, p,
+.contact h2{
+  font-weight: 200;
+}
+.gallery .img-fl{
+  width: 415px;
+}
